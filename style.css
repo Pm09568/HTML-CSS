@@ -1,0 +1,80 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    background-image: url("https://i0.wp.com/theprocessofbeing.com/wp-content/uploads/2020/05/Road-Photo.jpeg?fit=1000%2C667&ssl=1");
+    height: 100vh;
+    width: 100vw;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.container img
+{
+    position:absolute;
+    left: 30%;
+    top: 30%;
+    
+}
+#acc
+{
+    position: absolute;
+    left: 40%;
+    top: 45%;
+}
+#bcc{
+    position: absolute;
+    left: 35%;
+    top: 5%; 
+    height: 150px;
+}
+#ccc{
+    position: absolute;
+    left: 75%;
+    top: 0%; 
+    height: 150px;
+}
+#dcc{
+    position: absolute;
+    left: 0%;
+    top: 30%; 
+    height: 150px;
+}
+#ecc{
+    position: absolute;
+    left: 55%;
+    top: 10%; 
+    height: 150px;
+}
+#fcc{
+    position: absolute;
+    left: 90%;
+    top: 10%; 
+    height: 150px;
+}
+#gcc{
+    position: absolute;
+    left: 3%;
+    top: 0%; 
+    height: 550px;
+    width: 100%;
+}
+#hcc{
+    position: absolute;
+    left: 3%;
+    top: 40%; 
+    height: 300px;
+    /* width: 10%; */
+}
+#icc{
+    position: absolute;
+    left: 30%;
+    height: 300px;
+    /* border: 2px solid black; */
+    margin-top: 150px;
+    /* width: 10%; */
+}
